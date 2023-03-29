@@ -40,7 +40,7 @@ while True:
         cv2.circle(img, (cx, cy), 10, (255, 0, 0), cv2.FILLED)
 
         length = math.hypot(x2 - x1, y2 - y1)
-        print(length)
+        #print(length)
 
         # hand range 30-300, Vol range -65 - 0
         vol = np.interp(length, [50, 300], [minVol, maxVol])
