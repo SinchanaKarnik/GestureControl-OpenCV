@@ -1,3 +1,3 @@
 # GestureControl-OpenCV
 
-OpenCv projects -Trying various stuffs using Google's mediapipe=0.9.0
+OpenCv projects - using Google's mediapipe=0.9.0
